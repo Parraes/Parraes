@@ -18,7 +18,7 @@
 
 ## 🧠 Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,androidstudio,firebase,sqlite,js,react,jupyterlab,linux,git,github&perline=9" />
+  <img src="https://skillicons.dev/icons?i=java,python,androidstudio,firebase,sqlite,js,react,jupyter,linux,git,github&perline=9" />
 </p>
 
 ---
